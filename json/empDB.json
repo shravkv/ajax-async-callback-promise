@@ -5,16 +5,19 @@
             "name": "Anil",
             "salary": "10000"
         },
+        
         {
             "id": 2,
             "name": "Kamal",
             "salary": "8000"
         },
+
         {
             "name": "Amar",
             "salary": "3000",
             "id": 3
         },
+
         {
             "name": "Harry",
             "salary": "5000",
